@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Passando Dados 1
+//  Cara ou Coroa
 //
-//  Created by Enzo on 10/07/23.
+//  Created by Enzo on 11/07/23.
 //
 
 import UIKit
